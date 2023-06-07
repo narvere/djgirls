@@ -69,7 +69,6 @@ TEMPLATES = [
 ]
 
 WSGI_APPLICATION = 'djgirlsProj.wsgi.application'
-# WSGI_APPLICATION = 'vercel_app.wsgi.app'
 
 
 # Database
